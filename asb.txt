@@ -1,9 +1,13 @@
-<<<<<<< HEAD
+
 this is tes
 juelin1378:1378
-=======
-this is test1
+
+
 
 
 this is  juelin222:222222
->>>>>>> refs/remotes/origin/master
+
+
+
+view now 
+
